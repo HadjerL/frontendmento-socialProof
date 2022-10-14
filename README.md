@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/HadjerL/Frontend-mentor-social-proof.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://6349539487caba39b6bb0b84--iridescent-wisp-77fa6e.netlify.app/dist/)
 
 ## My process
 
